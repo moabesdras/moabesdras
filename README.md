@@ -30,7 +30,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Ecommerce - Desafio Compass 2](https://moabesdras.github.io/Compass-Desafio-2/)
-- [Python - Po](https://github.com/moabesdras/Pong)
+- [Python - Pong](https://github.com/moabesdras/Pong)
 - [Python - Alien Invasion](https://github.com/VariableBee/AWS_Athena_Queries)
 - [Webpage - Twenty One Pilots](https://github.com/moabesdras/Pagina_web)
 
@@ -40,7 +40,7 @@
 </p>
 
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
+<!-- Skills: Languages -->
   <div style="flex-basis: 48%;">
     <h3>Languages</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -50,7 +50,7 @@
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
   
-<!-- Skills: Tools & Frameworks -->
+<!-- Skills: Tools -->
   <div style="flex-basis: 48%;">
     <h3>Tools</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
